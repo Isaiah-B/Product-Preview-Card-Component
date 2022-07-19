@@ -1,16 +1,16 @@
-## Overview
+## Product Preview Card
+
+![](./images/screenshot.png)
+
 ### Challenge
 
 This challenge involves creating a simple product preview card component. The page should display an optimal layout based on the size of the viewer's device. Interactive elements should have proper hover and focus states.
 
-### Screenshot
-
-![](./screenshot.png)
 
 ### Links
 
-- Solution:
-- Live Site:
+- Solution: [https://www.frontendmentor.io/solutions/simple-responsive-product-preview-component-Ej0_Ber-s4]
+- Live Site: [https://profound-yeot-868fef.netlify.app]
 
 ### Built with
 
